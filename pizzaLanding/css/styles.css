@@ -1,0 +1,12 @@
+@import "globalStyles.css";
+
+@import "blocks/body.css";
+@import "blocks/header.css";
+@import "blocks/main.css";
+
+@import "blocks/sections/cover.css";
+@import "blocks/sections/menu.css";
+@import "blocks/sections/chips.css";
+@import "blocks/sections/interior.css";
+@import "blocks/sections/reviews.css";
+@import "blocks/sections/reservation.css";
