@@ -1,5 +1,8 @@
 @import "globalStyles.css";
 
+@import "variables.css";
+@import "colors.css";
+
 @import "blocks/body.css";
 @import "blocks/header.css";
 @import "blocks/main.css";
