@@ -2,7 +2,8 @@
 :root {
     --header-height: 100px;
 
-    /* ----------Адаптивный размер текста----------------- */
+
+ /* ----------Адаптивный размер текста----------------- */
     --page-width: 100vw;
     --page-width-default-px: 1920px;
     --page-width-default: 1920;
@@ -23,9 +24,7 @@
         var(--page-font-size-min-px) + (var(--page-font-size-default) - var(--page-font-size-min)) *
         ((var(--page-width) - var(--page-width-adaptive-px)) / (var(--page-width-default) - var(--page-width-adaptive)))
     );
-
 }
-
 /* ------media-------- */
 @media screen and (max-width: 1280px) {
     :root {
