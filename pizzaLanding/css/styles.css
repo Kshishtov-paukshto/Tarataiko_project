@@ -25,4 +25,10 @@
 @import "blocks/menu-item.css";
 @import "blocks/parallax.css";
 @import "blocks/chip-item.css";
+<<<<<<< HEAD
 @import 'blocks/collage.css';
+
+@import "blocks/review-item.css";
+=======
+@import 'blocks/collage.css';
+>>>>>>> 6f5e718984af846cd7aa4cdcc32943a752b7dc99
